@@ -93,6 +93,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SlimBootAnimation \
     SlimLauncher \
+    KernelAdiutor \
     SlimWallpaperResizer \
     SlimWallpapers \
     LatinIME \
